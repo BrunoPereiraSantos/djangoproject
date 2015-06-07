@@ -3,6 +3,18 @@
 	{
 		"selected_items":
 		[
+			[
+				"cle",
+				"cleaned_data"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"Sing",
+				"SingUpForm"
+			]
 		]
 	},
 	"buffers":
@@ -32,10 +44,21 @@
 	},
 	"file_history":
 	[
+		"/home/bruno/playground/djangoproject18/src/newsletter/models.py",
+		"/home/bruno/playground/djangoproject18/src/newsletter/admin.py",
+		"/home/bruno/playground/djangoproject18/src/newsletter/forms.py",
+		"/home/bruno/playground/djangoproject18/src/djangoproject18/settings.py",
+		"/home/bruno/playground/djangoproject18/src/newsletter/views.py",
+		"/home/bruno/playground/djangoproject18/src/templates/home.html",
+		"/home/bruno/playground/djangoproject18/src/djangoproject18/urls.py",
+		"/home/bruno/playground/djangoproject18/src/README.md",
+		"/mnt/Documentos/Documentos/Dropbox/Mestrado/0-Dissertacao/Dissertacao-latex/bibfile.bib",
+		"/mnt/Documentos/Videos/serie-sono/pinky-e-cerebro/ondeeubaixo.com - Pinky e Cérebro (samedley)/Como assistir.txt",
+		"/mnt/Documentos/Videos/serie-sono/pinky-e-cerebro/ondeeubaixo.com - Pinky e Cérebro (samedley)/O Melhore Site de Desenhos Animados ondeeubaixo.com.txt"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -49,6 +72,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"modeli",
+			"cloud",
+			"loure",
+			"cloud"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -77,7 +104,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
